@@ -1,3 +1,8 @@
 body {
-    background-color: rgba(238, 0, 250, 0.337);
+  background-color: rgba(238, 0, 250, 0.337);
+  margin: 0;
+}
+
+h1 {
+  font-size: 2rem;
 }
